@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV/Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,37 +9,60 @@ redirect_from:
 
 {% include base_path %}
 
+You can view my full academic CV [here (PDF)](/files/Academic_CV.pdf) and my one-page resume [here (PDF)](/files/Resume.pdf).
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Physics, Harvard University, *November 2023*
+* M.A. in Physics, Harvard University, *November 2020*
+* B.S. in Physics, National University of Engineering, *January 2016*
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2018 - 2023: Doctoral Researcher
+  * Harvard University (Cambridge, MA) and CERN (Geneva, Switzerland)
+  * Duties included: Leading Python-based data analysis, optimizing event classification in large datasets, and commissioning a muon spectrometer
+  * Supervisor: Professor Melissa Franklin
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016: Research Assistant
+  * Yale University (New Haven, CT)
+  * Duties included: Analyzing data for the PROSPECT reactor antineutrino experiment
+  * Supervisor: Professor Karsten Heeger
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2015: Research Assistant
+  * Peruvian Institute of Nuclear Energy (Lima, Peru)
+  * Duties included: Performance of neutron activation analysis in nuclear reactor core
+  * Supervisor: Professor Rubén Bruna
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning
+  * TensorFlow
+  * Keras
+  * XGBoost
+* Data Analysis
+  * Pandas
+  * NumPy
+  * SciPy
+* Development Tools
+  * Git
+  * Bash
+  * Regex
+  * IDEs (VSCode, Emacs, Sublime Text)
+* Programming Languages
+  * Python
+  * C/C++
+  * Julia
+  * HTML, CSS
+* Language Proficiency
+  * Spanish (Native)
+  * English (Fluent)
+  * French (Advanced)
+  * Akkadian (Advanced)
+  * Sumerian (Advanced)
+  * Quechua (Basic)
+  * Mandarin (Basic)
+  * German (Basic)
 
 Publications
 ======
@@ -61,4 +84,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Teaching experience at Harvard University and National University of Engineering
+* Contributor to open-source projects related to physics 
+* Volunteer for science outreach programs and community education initiatives
