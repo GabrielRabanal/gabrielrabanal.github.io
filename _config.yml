@@ -25,7 +25,7 @@ author:
   name             : "Gabriel Rabanal"
   pronouns         : # example: "she/her"  
   bio              : "Physicist and language enthusiast"
-  location         : "United States"
+  location         : "United States / Peru / Switzerland"
   employer         : "Harvard University"
   uri              : # URL
   email            : "grabanal@g.harvard.edu" 
@@ -201,6 +201,9 @@ kramdown:
 # Collections
 collections:
   teaching:
+    output: true
+    permalink: /:collection/:path/
+  research:
     output: true
     permalink: /:collection/:path/
   publications:
