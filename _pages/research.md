@@ -19,8 +19,8 @@ This process, triboson production, is a sensitive probe for testing the Standard
 
 <div style="text-align: center;">
     <div style="display: inline-block; max-width: 100%; width: 500px;">
-        <img src="/files/images/triboson_feynman_diagrams.png" alt="drawing" style="max-width: 100%; width: 100%; height: auto;"/>
-        <p style="text-align: center;">Figure 1: Tree-level Feynman diagrams contributing to triboson production in the Standard Model.</p>
+        <img src="/files/images/triboson_feynman_diagrams_abcd.jpg" alt="drawing" style="max-width: 100%; width: 100%; height: auto;"/>
+        <p style="text-align: left;">Leading Feynman diagrams for triboson production in the Standard Model, $\sim \mathcal{O}(\alpha_W^3)$: directly from quarks (a), and through gauge couplings: triple (b), quartic (c) and Higgs (d).</p>
     </div>
 </div>
 
@@ -35,6 +35,6 @@ The NSW utilizes Micromegas technology, a type of gaseous detector that provides
 <div style="text-align: center;">
     <div style="display: inline-block; max-width: 100%; width: 600px;">
         <img src="/files/images/nsw.jpeg" alt="drawing" style="max-width: 100%; width: 100%; height: auto;"/>
-        <p style="text-align: center;">Figure 2: Members of the New Small Wheel (NSW) collaboration in 2019, posing in front of the first NSW frame with the initial detector "wedge" in place (1 out of 16). I am positioned at the far right end.</p>
+        <p style="text-align: left;">Members of the NSW collaboration in 2019 in front of the first NSW frame with the initial detector "wedge" in place (1 out of 16). I am positioned at the far right end.</p>
     </div>
 </div>
