@@ -9,8 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-You can view my full academic CV [here (PDF)](/files/Academic_CV.pdf) and my one-page resume [here (PDF)](/files/Resume.pdf).
+You can download my full academic CV [here (PDF)](/files/pdf/Academic_CV.pdf) and my one-page resume [here (PDF)](/files/pdf/Resume.pdf).
 
+<iframe src="/files/pdf/Academic_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
+<iframe src="/files/pdf/Resume.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
+<!-- 
 Education
 ======
 * Ph.D. in Physics, Harvard University, *November 2023*
@@ -22,17 +27,14 @@ Work experience
 * 2018 - 2023: Doctoral Researcher
   * Harvard University (Cambridge, MA) and CERN (Geneva, Switzerland)
   * Duties included: Leading Python-based data analysis, optimizing event classification in large datasets, and commissioning a muon spectrometer
-  * Supervisor: Professor Melissa Franklin
 
 * 2016: Research Assistant
   * Yale University (New Haven, CT)
   * Duties included: Analyzing data for the PROSPECT reactor antineutrino experiment
-  * Supervisor: Professor Karsten Heeger
 
 * 2015: Research Assistant
   * Peruvian Institute of Nuclear Energy (Lima, Peru)
   * Duties included: Performance of neutron activation analysis in nuclear reactor core
-  * Supervisor: Professor Rubén Bruna
   
 Skills
 ======
@@ -86,4 +88,4 @@ Service and leadership
 ======
 * Teaching experience at Harvard University and National University of Engineering
 * Contributor to open-source projects related to physics 
-* Volunteer for science outreach programs and community education initiatives
+* Volunteer for science outreach programs and community education initiatives -->
