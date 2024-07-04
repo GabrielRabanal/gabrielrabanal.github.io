@@ -11,6 +11,8 @@ redirect_from:
 
 You can download a PDF copy of my academic CV [here](/files/pdf/Academic_CV.pdf) and my one-page resume [here](/files/pdf/Resume.pdf).
 
+Please note that I have two last names according to [Spanish naming customs](https://en.wikipedia.org/wiki/Spanish_naming_customs). However, in the United States, I am legally required to use both last names as a single compound last name. I have no middle name.
+
 <div style="text-align: center;">
     <p> CV </p>
     <iframe src="/files/pdf/Academic_CV.pdf" style="width: 600px; max-width: 90%; height: 500px; margin-bottom: 20px; border: none;"></iframe>
