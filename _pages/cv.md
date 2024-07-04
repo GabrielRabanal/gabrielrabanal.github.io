@@ -11,9 +11,12 @@ redirect_from:
 
 You can download my full academic CV [here (PDF)](/files/pdf/Academic_CV.pdf) and my one-page resume [here (PDF)](/files/pdf/Resume.pdf).
 
-<iframe src="/files/pdf/Academic_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-
-<iframe src="/files/pdf/Resume.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<div style="text-align: center;">
+    <p> CV </p>
+    <iframe src="/files/pdf/Academic_CV.pdf" style="width: 600px; max-width: 100%; height: 500px; margin-bottom: 20px; border: none;"></iframe>
+    <p> Resume </p>
+    <iframe src="/files/pdf/Resume.pdf" style="width: 600px; max-width: 100%; height: 500px; border: none;"></iframe>
+</div>
 
 <!-- 
 Education
