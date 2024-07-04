@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-## <u>Measurement of triple boson production in proton collisions with the ATLAS detector at the Large Hadron Collider</u>
+## Measurement of triple boson production in proton collisions with the ATLAS detector at the Large Hadron Collider
 (Forthcoming)
 
 {% for post in site.publications reversed %}
