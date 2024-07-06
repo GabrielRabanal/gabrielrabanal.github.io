@@ -11,9 +11,9 @@ author_profile: true
 
 ## Triboson 
 
-*Search for the Production of Three Massive Vector Bosons in Proton-Proton Collisions*
+*Search for the Production of Three Massive Vector Bosons*
 
-The Standard Model of particle physics describes how fundamental particles interact, but we continue to test its predictions to uncover any new physics. My research focuses on studying the production of three massive vector bosons (the carriers of the weak force: the W and Z bosons) using data from proton-proton collisions collected by the ATLAS experiment at the Large Hadron Collider. 
+The Standard Model of particle physics describes how fundamental particles interact, but we continue to test its predictions to uncover any new physics. My research focuses on studying the production of three massive vector bosons (the carriers of the weak force: the W and Z bosons) using data from proton collisions collected by the ATLAS experiment at the Large Hadron Collider. 
 
 This process, triboson production, is a sensitive probe for testing the Standard Model's triple and quartic gauge couplings and the Higgs boson's coupling to the vector bosons. Additionally, certain theoretical frameworks, such as large extra dimension models, predict a higher rate of production of triboson events. This process is extremely rare, with a cross-section of less than 1 picobarn. To differentiate the triboson signal from the background, we use advanced machine learning techniques, including neural networks and boosted decision trees, to improve our ability to distinguish between signal and background events.
 
