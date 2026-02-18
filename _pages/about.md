@@ -15,4 +15,4 @@ My academic journey began with a B.Sc. in Physics from the [National University 
 
 I'm also passionate about languages and linguistics. I have expertise in phonetics, grammar, and writing systems across various language families. I'm fluent in Spanish, English, and French, and I have advanced knowledge of ancient languages, mainly Akkadian and Sumerian, but I like reading anything cuneiform. Furthermore, I'm particularly interested in the indigenous languages of the Americas, such as Quechua. In my free time, I enjoy exploring new languages and reading into historical linguistics. I am also working on several personal projects that blend my interests in data science and languages.
 
-If you're interested, you can view my full academic CV [here](/files/pdf/Academic_CV.pdf) and my one-page resume [here](/files/pdf/Resume.pdf). Please feel free to contact me via email for any inquiries. 
+My resume is [here](/files/pdf/Resume.pdf). Please feel free to contact me via email for any inquiries.
